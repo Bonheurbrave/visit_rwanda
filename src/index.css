@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hp{
+    background-image:url("./images/background.png");
+    background-size:cover ;
+    background-position:center ;
+    
+
+}
+.lg-span{
+    text-shadow: 0 3.6px blue ;
+    font-weight:bold;
+}
+
+.cta{
+    border-radius:10px 40px 10px
+}
+
+.tran{
+    background-color:rgba(0 ,0 ,0 , .78);
+}
+
+.ln{
+    line-height:3px;
+}
+
